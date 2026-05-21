@@ -102,7 +102,7 @@ pip install pandas numpy matplotlib seaborn xgboost
 **Run**
 1. Clone this repository
 2. Place `anxiety_dataset.csv` in the same directory as the notebook
-3. Open `anxiety_project.ipynb` in Jupyter Notebook or VS Code
+3. Open `anxiety_prediction.ipynb` in Jupyter Notebook or VS Code
 4. Run all cells sequentially
 5. Use the prediction system in the final cells to test with your own inputs
 
