@@ -110,4 +110,4 @@ pip install pandas numpy matplotlib seaborn xgboost
 
 ## Tech Stack
 
-`Python` &nbsp;|&nbsp; `Pandas` &nbsp;|&nbsp; `NumPy` &nbsp;|&nbsp; `Matplotlib` &nbsp;|&nbsp; `Seaborn`  &nbsp;|&nbsp; `XGBoost`
+`Python` &nbsp;|&nbsp; `Pandas` &nbsp;|&nbsp; `NumPy` &nbsp;|&nbsp; `Matplotlib` &nbsp;|&nbsp; `Seaborn` &nbsp;|&nbsp; `Scikit-learn` &nbsp;|&nbsp; `XGBoost`
