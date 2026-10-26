@@ -1,6 +1,6 @@
 # Anxiety Level Prediction — Exploratory Data Analysis & Machine Learning
 
-An end-to-end data science project analyzing the key drivers of anxiety across 12,000 individuals. The project combines in-depth Exploratory Data Analysis with a Machine Learning classification model and an interactive prediction system to determine an individual's anxiety level based on lifestyle and physiological indicators.
+An end-to-end data science project analyzing the key drivers of anxiety across 12,000+ individuals. The project combines in-depth Exploratory Data Analysis with a Machine Learning classification model and an interactive prediction system to determine an individual's anxiety level based on lifestyle and physiological indicators.
 
 ---
 
